@@ -1,0 +1,3 @@
+#!/bin/bash
+./rot13.sh encode 
+./rot13.sh decode
